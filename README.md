@@ -53,7 +53,7 @@ CHANNEL_ID = "G2LCBCXGF"
 
 ### Step 4 - Profit
 
-### Remember to star this repository and fork it.
+### Remember to star this repository and fork it..
 
 #### Bugs / Issues / Suggestions -> write me a message on "Issues"
 
